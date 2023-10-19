@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1696552478 source:f:\new folder\ayasayed\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	"bmplib.cpp"
+
+1696552720 f:\new folder\ayasayed\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1696552618 f:\new folder\ayasayed\bmplib.h
+
+1697679776 source:f:\new folder\ayasayed\merge\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	<iomanip>
+	"bmplib.cpp"
+	<unistd.h>
+
+1696552720 f:\new folder\ayasayed\merge\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1696552618 f:\new folder\ayasayed\merge\bmplib.h
+
